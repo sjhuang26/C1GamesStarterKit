@@ -23,8 +23,4 @@ Performing turn 19 of your custom algo strategy
 Performing turn 20 of your custom algo strategy
 Performing turn 21 of your custom algo strategy
 Performing turn 22 of your custom algo strategy
-Performing turn 23 of your custom algo strategy
-Performing turn 24 of your custom algo strategy
-Performing turn 25 of your custom algo strategy
-Performing turn 26 of your custom algo strategy
-Performing turn 27 of your custom algo strategy
+Got end state quitting bot.
