@@ -3,7 +3,7 @@
 *__pycache__*
 
 algos/*
-!algos/starter-algo
+!algos/main-algo
 
 dist/*
 !dist/.gitkeep
