@@ -4,6 +4,8 @@
 
 algos/*
 !algos/main-algo
+!algos/starter-algo
+!algos/nothing-algo
 
 dist/*
 !dist/.gitkeep
